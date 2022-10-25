@@ -6,7 +6,16 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="262a53b2-5ef4-4535-bbbd-9e7728f087a0" name="Changes" comment="" />
+    <list default="true" id="262a53b2-5ef4-4535-bbbd-9e7728f087a0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/IntroSection/Add.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codeSignalAracdeProblems/AllLongestStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/IntroSection/AllLongestStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codeSignalAracdeProblems/AlmostIncreasingSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/IntroSection/AlmostIncreasingSequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codeSignalAracdeProblems/CommonCharacterCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/IntroSection/CommonCharacterCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codeSignalAracdeProblems/IsLucky.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/IntroSection/IsLucky.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/codeSignalAracdeProblems/MatrixSumElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/IntroSection/MatrixSumElement.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,13 +54,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MatrixSumElement">
-    <configuration name="AllLongestStrings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codeSignalAracdeProblems.AllLongestStrings" />
+  <component name="RunManager" selected="Application.Add">
+    <configuration name="Add" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.IntroSection.Add" />
       <module name="CodeSignalArcadeProblems1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codeSignalAracdeProblems.*" />
+          <option name="PATTERN" value="com.IntroSection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,11 +69,11 @@
       </method>
     </configuration>
     <configuration name="AlmostIncreasingSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codeSignalAracdeProblems.AlmostIncreasingSequence" />
+      <option name="MAIN_CLASS_NAME" value="com.IntroSection.AlmostIncreasingSequence" />
       <module name="CodeSignalArcadeProblems1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codeSignalAracdeProblems.*" />
+          <option name="PATTERN" value="com.IntroSection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,11 +82,11 @@
       </method>
     </configuration>
     <configuration name="CommonCharacterCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codeSignalAracdeProblems.CommonCharacterCount" />
+      <option name="MAIN_CLASS_NAME" value="com.IntroSection.CommonCharacterCount" />
       <module name="CodeSignalArcadeProblems1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codeSignalAracdeProblems.*" />
+          <option name="PATTERN" value="com.IntroSection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,11 +95,11 @@
       </method>
     </configuration>
     <configuration name="IsLucky" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codeSignalAracdeProblems.IsLucky" />
+      <option name="MAIN_CLASS_NAME" value="com.IntroSection.IsLucky" />
       <module name="CodeSignalArcadeProblems1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codeSignalAracdeProblems.*" />
+          <option name="PATTERN" value="com.IntroSection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,11 +108,11 @@
       </method>
     </configuration>
     <configuration name="MatrixSumElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codeSignalAracdeProblems.MatrixSumElement" />
+      <option name="MAIN_CLASS_NAME" value="com.IntroSection.MatrixSumElement" />
       <module name="CodeSignalArcadeProblems1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.codeSignalAracdeProblems.*" />
+          <option name="PATTERN" value="com.IntroSection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Add" />
+        <item itemvalue="Application.IsLucky" />
         <item itemvalue="Application.MatrixSumElement" />
         <item itemvalue="Application.CommonCharacterCount" />
         <item itemvalue="Application.AlmostIncreasingSequence" />
-        <item itemvalue="Application.AllLongestStrings" />
-        <item itemvalue="Application.IsLucky" />
       </list>
     </recent_temporary>
   </component>
@@ -130,7 +139,7 @@
       <option name="presentableId" value="Default" />
       <updated>1666654560113</updated>
       <workItem from="1666654561400" duration="1227000" />
-      <workItem from="1666656082655" duration="713000" />
+      <workItem from="1666656082655" duration="2357000" />
     </task>
     <servers />
   </component>
