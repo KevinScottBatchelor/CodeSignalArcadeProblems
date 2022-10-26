@@ -7,14 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="262a53b2-5ef4-4535-bbbd-9e7728f087a0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/IntroSection/Add.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/IntroSection/alternatingSums.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/codeSignalAracdeProblems/AllLongestStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/IntroSection/AllLongestStrings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/codeSignalAracdeProblems/AlmostIncreasingSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/IntroSection/AlmostIncreasingSequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/codeSignalAracdeProblems/CommonCharacterCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/IntroSection/CommonCharacterCount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/codeSignalAracdeProblems/IsLucky.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/IntroSection/IsLucky.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/codeSignalAracdeProblems/MatrixSumElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/IntroSection/MatrixSumElement.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,28 +42,16 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/kevin/OneDrive/Desktop/Coding/CodeSignalArcadeProblems",
     "project.structure.last.edited": "Artifacts",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.3477461",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Add">
+  <component name="RunManager" selected="Application.alternatingSums">
     <configuration name="Add" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.IntroSection.Add" />
-      <module name="CodeSignalArcadeProblems1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.IntroSection.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AlmostIncreasingSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.IntroSection.AlmostIncreasingSequence" />
       <module name="CodeSignalArcadeProblems1" />
       <extension name="coverage">
         <pattern>
@@ -120,13 +102,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="alternatingSums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.IntroSection.alternatingSums" />
+      <module name="CodeSignalArcadeProblems1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.IntroSection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.alternatingSums" />
         <item itemvalue="Application.Add" />
         <item itemvalue="Application.IsLucky" />
         <item itemvalue="Application.MatrixSumElement" />
         <item itemvalue="Application.CommonCharacterCount" />
-        <item itemvalue="Application.AlmostIncreasingSequence" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +134,8 @@
       <option name="presentableId" value="Default" />
       <updated>1666654560113</updated>
       <workItem from="1666654561400" duration="1227000" />
-      <workItem from="1666656082655" duration="2357000" />
+      <workItem from="1666656082655" duration="3415000" />
+      <workItem from="1666765961630" duration="876000" />
     </task>
     <servers />
   </component>
