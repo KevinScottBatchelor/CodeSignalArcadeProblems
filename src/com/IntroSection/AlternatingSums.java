@@ -1,7 +1,5 @@
 package com.IntroSection;
-
 import java.util.Arrays;
-
 /*
 Several people are standing in a row and need to be divided into two teams. The first person goes into team 1, the
 second goes into team 2, the third goes into team 1 again, the fourth into team 2, and so on.
@@ -27,13 +25,11 @@ Guaranteed constraints:
 
 [output] array.integer
 */
-public class alternatingSums {
-
+public class AlternatingSums {
     static int[] solution(int[] a) {
         int[] answer = new int[]{0,0};
         int teamOne = 0;
         int teamTwo = 0;
-
         //iterate over even indices starting at 0 of a for team 1 and get sum
         for (int i = 0; i < a.length; i+=2) {
             teamOne+= a[i];
@@ -50,7 +46,7 @@ public class alternatingSums {
 
     public static void main(String[] args) {
         int[] a = new int[]{50, 60, 60, 45, 70};
-        //Output should be [810, 105]
+        //Output should be [180, 105]
         System.out.println(Arrays.toString(solution(a)));
     }
 }
