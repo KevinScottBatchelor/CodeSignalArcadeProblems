@@ -43,13 +43,12 @@ public class PalindromeRearranging {
         int unpairedChars = 0;
 
         for (Character c : map.keySet()) {
-            //odd length strings can only have one unpaired char (the middle char i.e the 'z' in "aza")
+            //palindromes can only have one unpaired char (the middle char i.e the 'z' in "aza")
             if (map.get(c) % 2 == 1) {
                 unpairedChars++;
                 if (unpairedChars > 1) isPalindrome = false;
             }
         }
-
         return isPalindrome;
     }
     public static void main (String[] args) {
