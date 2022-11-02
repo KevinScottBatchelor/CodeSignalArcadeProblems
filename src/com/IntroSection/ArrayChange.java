@@ -24,7 +24,6 @@ The minimal number of moves needed to obtain a strictly increasing sequence from
 It's guaranteed that for the given test cases the answer always fits signed 32-bit integer type.
 */
 public class ArrayChange {
-
     static int solution(int[] inputArray) {
         int minimalAmountOfMoves = 0;
 
