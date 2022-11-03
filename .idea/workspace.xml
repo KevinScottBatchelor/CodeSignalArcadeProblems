@@ -6,11 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="262a53b2-5ef4-4535-bbbd-9e7728f087a0" name="Changes" comment="Added PalindromeRearranging problem.">
-      <change afterPath="$PROJECT_DIR$/src/com/InterViewTypeQuestions/FirstDuplicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/InterViewTypeQuestions/FirstNonrepeatingCharacter.java" afterDir="false" />
+    <list default="true" id="262a53b2-5ef4-4535-bbbd-9e7728f087a0" name="Changes" comment="Added FirstNotRepeatingCharacter problem. Added test case for FirstDuplicate.">
+      <change afterPath="$PROJECT_DIR$/src/com/InterViewTypeQuestions/RotateImage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/IntroSection/PalindromeRearranging.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/IntroSection/PalindromeRearranging.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,20 +49,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
-    <configuration name="Add" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.IntroSection.Add" />
-      <module name="CodeSignalArcadeProblems1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.InterViewTypeQuestions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.RotateImage">
     <configuration name="AlternatingSums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.IntroSection.AlternatingSums" />
       <module name="CodeSignalArcadeProblems1" />
@@ -117,13 +102,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RotateImage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.InterViewTypeQuestions.RotateImage" />
+      <module name="CodeSignalArcadeProblems1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.InterViewTypeQuestions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RotateImage" />
         <item itemvalue="Application.FirstDuplicate" />
         <item itemvalue="Application.GuideWireAssessment" />
         <item itemvalue="Application.AreSimilar" />
         <item itemvalue="Application.AlternatingSums" />
-        <item itemvalue="Application.Add" />
       </list>
     </recent_temporary>
   </component>
@@ -144,7 +142,8 @@
       <workItem from="1666990299694" duration="7757000" />
       <workItem from="1667091038788" duration="5000" />
       <workItem from="1667244173873" duration="30000" />
-      <workItem from="1667366581285" duration="6154000" />
+      <workItem from="1667366581285" duration="6491000" />
+      <workItem from="1667445245687" duration="418000" />
     </task>
     <task id="LOCAL-00001" summary="Modified arrayChange problem.">
       <created>1667367154741</created>
@@ -160,7 +159,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667372119332</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added FirstNotRepeatingCharacter problem. Added test case for FirstDuplicate.">
+      <created>1667380688332</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667380688332</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -180,6 +186,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Modified arrayChange problem." />
     <MESSAGE value="Added PalindromeRearranging problem." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added PalindromeRearranging problem." />
+    <MESSAGE value="Added FirstNotRepeatingCharacter problem. Added test case for FirstDuplicate." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added FirstNotRepeatingCharacter problem. Added test case for FirstDuplicate." />
   </component>
 </project>
