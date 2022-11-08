@@ -7,8 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="262a53b2-5ef4-4535-bbbd-9e7728f087a0" name="Changes" comment="Added RotateImage problem.">
+      <change afterPath="$PROJECT_DIR$/src/com/IntroSection/CenturyFromYear.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/InterViewTypeQuestions/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/InterViewTypeQuestions/BinarySearch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +49,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.BinarySearch">
+  <component name="RunManager" selected="Application.CenturyFromYear">
     <configuration name="BinaryGap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.InterViewTypeQuestions.BinaryGap" />
       <module name="CodeSignalArcadeProblems1" />
@@ -76,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.InterViewTypeQuestions.FirstDuplicate" />
+    <configuration name="CenturyFromYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.IntroSection.CenturyFromYear" />
       <module name="CodeSignalArcadeProblems1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.InterViewTypeQuestions.*" />
+          <option name="PATTERN" value="com.IntroSection.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CenturyFromYear" />
         <item itemvalue="Application.BinarySearch" />
         <item itemvalue="Application.BinaryGap" />
         <item itemvalue="Application.PrintSpecialNums" />
         <item itemvalue="Application.RotateImage" />
-        <item itemvalue="Application.FirstDuplicate" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +152,7 @@
       <workItem from="1667606576998" duration="370000" />
       <workItem from="1667609012627" duration="63000" />
       <workItem from="1667801429862" duration="5454000" />
-      <workItem from="1667888239193" duration="514000" />
+      <workItem from="1667888239193" duration="1187000" />
     </task>
     <task id="LOCAL-00001" summary="Modified arrayChange problem.">
       <created>1667367154741</created>
