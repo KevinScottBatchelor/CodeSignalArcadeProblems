@@ -37,11 +37,27 @@ public class BinarySearch {
             }
             return -1;
         }
+
+        static boolean targetInArray(int[] nums, int target) {
+            boolean isPresent = true;
+            int low = nums[0];
+            int high = nums.length - 1;
+            while (low <= high) {
+                int mid = (low + high) / 2;
+                int guess = nums[mid];
+                if (guess == target) return isPresent;
+                if (guess > target) high = mid - 1;
+                else low = mid + 1;
+            }
+            return false;
+        }
         //driver code to show results
         public static void main (String[] args) {
             int[] nums = {2, 3, 5, 7, 8, 10, 12, 15, 18, 20};
             int target = 5;
             //expected result 2
             System.out.println(IndexOfTargetInt(nums, target));
+            //expected true
+            System.out.println(targetInArray(nums, target));
         }
 }

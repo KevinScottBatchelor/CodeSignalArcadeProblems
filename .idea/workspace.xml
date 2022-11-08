@@ -7,9 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="262a53b2-5ef4-4535-bbbd-9e7728f087a0" name="Changes" comment="Added RotateImage problem.">
-      <change afterPath="$PROJECT_DIR$/src/com/InterViewTypeQuestions/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/InterViewTypeQuestions/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/InterViewTypeQuestions/BinarySearch.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -152,7 +151,8 @@
       <workItem from="1667602792600" duration="81000" />
       <workItem from="1667606576998" duration="370000" />
       <workItem from="1667609012627" duration="63000" />
-      <workItem from="1667801429862" duration="4068000" />
+      <workItem from="1667801429862" duration="5454000" />
+      <workItem from="1667888239193" duration="514000" />
     </task>
     <task id="LOCAL-00001" summary="Modified arrayChange problem.">
       <created>1667367154741</created>
